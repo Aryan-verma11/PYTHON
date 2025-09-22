@@ -1,0 +1,11 @@
+A virtual environment in Python is an isolated, self-contained directory that holds a specific Python interpreter and its own set of installed packages and libraries. It provides a way to manage dependencies for different Python projects independently, preventing conflicts between projects that might require different versions of the same package
+
+matlab ki
+
+
+virtualenv allow karta hai aapko different packages ke version ko download me karne me 
+
+
+jaisy: agr hmmare pass panda library ka ver 1.5 hai aur somehow we need the 2.2 version to agar hum download krengy 2.2 ko to 1.5 hat jayega 
+
+yaha virtualenv ek copy bana deta hai file ki jaha aap dusre version ko safely use kar saklty hai 
